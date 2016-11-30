@@ -28,8 +28,8 @@ Fonts
 Styles
 */
 
-body {
-  background: url('../img/bg.jpg') no-repeat center center fixed;
+body { 
+  background: url('../img/bg.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -57,17 +57,17 @@ p {
 }
 
 .jumbo .title {
-	font-size: 5em;
+	font-size: 9em;
 	font-family: 'GothamMedium', Helvetica, sans-serif;
-	line-height: 1.8em;
+	line-height: 0.8em;
 }
 
 .jumbo .prominent {
-	font-size:1.3em;
+	font-size:2em;
 }
 
 .secondary {
-	font-size: 1.3em;
+	font-size: 1.5em;
 }
 
 .span4{
@@ -109,12 +109,13 @@ a:hover {
 	.jumbo .title {
 		font-size: 6em;
 	}
-
+	
 	.jumbo .prominent {
 		font-size: 1.3em;
 	}
-
+	
 	.secondary {
-		font-size:1.1em;
+		font-size:1.1em;	
 	}
 }
+
