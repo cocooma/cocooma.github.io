@@ -117,7 +117,7 @@ a:hover {
 @media screen and (max-device-width: 480px){
     /*--- iPhone only CSS here ---*/
 	.jumbo .title {
-		font-size: 6em;
+		font-size: 5em;
 	}
 
 	.jumbo .prominent {
